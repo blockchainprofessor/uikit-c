@@ -2166,17 +2166,17 @@ var socials = [
     {
         label: "Github",
         icon: "GithubIcon",
-        href: "https://github.com/martiandefi",
+        href: "https://github.com/cariboufinance",
     },
     {
         label: "Gitbook",
         icon: "GitbookIcon",
-        href: "https://martianswap.gitbook.io/",
+        href: "https://cariboufinance.gitbook.io/caribou",
     },
     {
         label: "Medium",
         icon: "MediumIcon",
-        href: "https://martianswap.medium.com/",
+        href: "https://cariboufinance.medium.com/",
     },
     {
         label: "Telegram",
@@ -2184,7 +2184,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/martianswap",
+                href: "https://t.me/cariboufinancechat",
             },
             // {
             //   label: "Bahasa Indonesia",
@@ -2228,14 +2228,14 @@ var socials = [
             // },
             {
                 label: "Announcements",
-                href: "https://t.me/martianswapnews",
+                href: "https://t.me/cariboufinancenews",
             },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/MartianSWAP",
+        href: "https://twitter.com/cariboufinance",
     },
 ];
 var MENU_HEIGHT = 64;
