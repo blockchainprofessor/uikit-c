@@ -2184,7 +2184,7 @@ var socials = [
     {
         label: "Gitbook",
         icon: "GitbookIcon",
-        href: "https://cariboufinance.gitbook.io/caribou",
+        href: "https://docs.caribou.finance",
     },
     {
         label: "Medium",
